@@ -13,6 +13,7 @@ body {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 
@@ -88,6 +89,7 @@ body {
 }
 
 .button {
+    cursor: pointer;
     color: #FFF;
     font-weight: 500;
     line-height: 1.5;
@@ -106,6 +108,14 @@ body {
     border-radius: 4px;
     background: var(--OCEAN, #404BBF);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.button:focus {
+    background: var(--OCEAN, #404BBF);
+}
+
+.section-first {
+    background-color: #2E2F42;
 }
 
 .section-title {
