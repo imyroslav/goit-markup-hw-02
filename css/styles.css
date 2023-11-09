@@ -26,7 +26,7 @@ body {
     color: #4D5AE5;
 }
 
-.logo-span {
+.logo-span-header {
     color: #2E2F42;
 }
 
@@ -110,7 +110,6 @@ body {
 
 .section-title {
     color: #2E2F42;
-    text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -148,4 +147,8 @@ body {
 .footer-text {
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+.logo-span-footer {
+    color: #F4F4FD;
 }
