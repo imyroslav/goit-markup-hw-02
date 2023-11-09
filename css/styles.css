@@ -128,3 +128,21 @@ body {
     text-transform: capitalize;
 }
 
+/* Class for header h3 */
+.card-title {
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.card-text {
+   letter-spacing: 0.02em;
+}
+
+.section-third {
+    background-color: #F4F4FD;
+}
