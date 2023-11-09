@@ -1,6 +1,7 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
     font-size: 16px;
     line-height: 1.5;
 }
@@ -22,7 +23,6 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
 }
 
 .nav-link-studio:hover {
@@ -31,8 +31,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.32px;
+    line-height: 1.5
 }
 
 .nav-link-studio:active {
@@ -42,7 +41,6 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
 }
 
 .nav-link {
@@ -52,7 +50,6 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
 }
 
 .nav-link:hover {
@@ -62,7 +59,6 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
 }
 
 .address-link {
@@ -72,7 +68,6 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
 }
 
 .address-link:hover {
@@ -82,7 +77,6 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
 }
 
 .button {
