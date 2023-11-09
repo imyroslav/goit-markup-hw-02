@@ -14,7 +14,6 @@ body {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;
 }
 
 .logo { 
@@ -94,20 +93,11 @@ body {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.64px;
-    border-radius: 4px;
     background: #4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-
-    display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;
 }
 
 .button:hover {
-    border-radius: 4px;
     background: var(--OCEAN, #404BBF);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .button:focus {
@@ -145,4 +135,17 @@ body {
 
 .section-third {
     background-color: #F4F4FD;
+}
+
+.ourteam-list {
+    background-color: #FFFFFF;
+}
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer-text {
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
